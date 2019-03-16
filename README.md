@@ -4,7 +4,7 @@ I always spend 5 mins clearing out all of the stuff I don't need from CRA. I jus
 
 ## How does this shit work?
 
-- clone project to your computer
+- clone project to your computer: `git clone git@github.com:braedongough/init-cra.git`
 
 - cd into project and run: `cp init-cra.sh /usr/local/bin/init-cra`
 
