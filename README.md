@@ -13,4 +13,6 @@ I always spend 5 mins clearing out all of the stuff I don't need from CRA. I jus
 
 - the script wipes `src` folder and recreates it with only `index.js` and `App.js`. App is converted to a functional component cause I'm about that hooks lyfe.
 
-- Finally, script adds `styled-components` to project
+- script adds `styled-components` to project
+
+-Finally, app should start on port 3000.
